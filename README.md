@@ -1,1 +1,1 @@
-# git-sessions
+# git_sessions
